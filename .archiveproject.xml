@@ -1,0 +1,10 @@
+<configuration>
+	<targetPath>f:\Data\My Projects\youtube-extract-story</targetPath>
+	<attendedRun>false</attendedRun>
+	<ignoreList>
+		<ignore>bin</ignore>
+		<ignore>obj</ignore>
+		<ignore>.git</ignore>
+		<ignore>.vs</ignore>
+	</ignoreList>
+</configuration>
