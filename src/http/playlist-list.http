@@ -1,0 +1,4 @@
+GET https://api.ipify.org
+
+GET 
+https://geo.ipify.org/api/v1?apiKey=YOUR_API_KEY&ipAddress=8.8.8.8
